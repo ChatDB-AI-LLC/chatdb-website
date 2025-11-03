@@ -115,10 +115,10 @@ export default function HomePage() {
             scrolling="no" 
             style={{ 
               width: '100%', 
-              height: '291px', // <-- THE REAL FIX: Use Beehiiv's intended height
+              height: '100px', // <-- THE REAL FIX: Use Beehiiv's intended height
               margin: '0', 
               borderRadius: '6px', // Match our card's rounded corners
-              backgroundColor: 'white' // Be explicit that the form is white
+              backgroundColor: 'black' // Be explicit that the form is white
             }}
           ></iframe>
           {/* === END: REAL BEEHIIV FORM === */}
