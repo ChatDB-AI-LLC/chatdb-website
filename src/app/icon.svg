@@ -1,0 +1,21 @@
+<svg 
+  width="64" 
+  height="64" 
+  viewBox="0 0 64 64" 
+  fill="none" 
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- This is the dark, rounded square background -->
+  <rect width="64" height="64" rx="12" fill="#030712"/>
+  
+  <!-- This is the icon, colored with your blue accent color -->
+  <g stroke="#3B82F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- Database Cylinder -->
+    <ellipse cx="32" cy="24" rx="12" ry="5"/>
+    <path d="M20 24v16c0 2.76 5.37 5 12 5s12-2.24 12-5V24"/>
+    
+    <!-- Chat Bubble (Speech bubble part) -->
+    <path d="M32 38c-6.08 0-11 3.58-11 8s4.92 8 11 8c1.85 0 3.6-.36 5.1-1.01L42 55v-5.41c1.2-1.28 2-2.9 2-4.59 0-4.42-4.92-8-11-8z"/>
+  </g>
+</svg>
